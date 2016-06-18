@@ -1,0 +1,34 @@
+body{
+	background: url("../img/fondo.jpg");
+	color: #fff;
+	font-family: Lobster;
+
+}
+
+#hora{
+	font-size: 7.5em;
+	padding-top: 2%;
+}
+#fecha{
+	font-size: 1.5em;
+	padding-bottom: 3%;
+}
+.modal-body{
+	color: #000;
+}
+.modal-body ul li{
+	list-style:none;
+}
+button{
+	display: block;
+	margin: auto;
+	margin-top:200px;
+
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #F1CE16;
+    border-color: #ECD50C;
+
+}
